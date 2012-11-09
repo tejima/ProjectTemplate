@@ -7,11 +7,7 @@ opAuthJanrainPlugin概要
 スクリーンショット
 ------
 
-![SS](http://p.pne.jp/it/?w=200&h=150)
-
-![SS](http://p.pne.jp/it/?w=200&h=150)
-![SS](http://p.pne.jp/it/?w=200&h=150)
-![SS](http://p.pne.jp/it/?w=200&h=150)
+![SS](http://p.pne.jp/it/?w=200&h=150)![SS](http://p.pne.jp/it/?w=200&h=150)![SS](http://p.pne.jp/it/?w=200&h=150)![SS](http://p.pne.jp/it/?w=200&h=150)
 
  
 インストール方法
@@ -47,5 +43,4 @@ https://github.com/xttxtx/xxx.zip
   
 要望・フィードバック
 ----------
-
-https://github.com/tejima/opAuthJanrainPlugin/issues 
+https://github.com/tejima/ProjectTemplate/issues
