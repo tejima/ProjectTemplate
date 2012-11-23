@@ -2,4 +2,4 @@ language: php
 script:
   - ls
 notifications:
-  webhooks: http://eyeball.herokuapp.com/hook.php
+  webhooks: http://eyeball.herokuapp.com/hook.php?target=travis
