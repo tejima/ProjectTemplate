@@ -19,8 +19,6 @@ symfonyコマンドを使って、直接DLします
     cd path/to/OpenPNE
     ./symfony opPlugin:install opAuthJanrainPlugin
 
-
-uiuuuuiuiiui
 更新履歴
 --------
 
