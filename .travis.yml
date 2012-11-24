@@ -2,4 +2,4 @@ language: php
 script:
   - ls
 notifications:
-  webhooks: http://eyeballnode.herokuapp.com/hook.json?target=travis
+  webhooks: http://salty-plains-5925.herokuapp.com/hook.json?target=travis
