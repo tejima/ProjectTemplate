@@ -20,9 +20,6 @@ symfonyコマンドを使って、直接DLします
     ./symfony opPlugin:install opAuthJanrainPlugin
      
 
-
-a
-
 更新履歴
 --------
 
