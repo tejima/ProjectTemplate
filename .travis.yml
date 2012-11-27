@@ -2,4 +2,4 @@ language: php
 script:
   - ls
 notifications:
-  webhooks: http://salty-plains-5925.herokuapp.com/hook_travis.json
+  webhooks: http://salty-plains-5925.herokuapp.com/hook_travis.json?deviceid=2
